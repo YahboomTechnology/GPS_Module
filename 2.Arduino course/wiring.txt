@@ -1,0 +1,4 @@
+GPS模块VCC--------------Arduino的5v
+GPS模块GND--------------Arduino的GND
+GPS模块TXD--------------Arduino的D0（数字IO 0）
+GPS模块RXD不接
