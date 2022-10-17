@@ -1,0 +1,1 @@
+If your Windows PC can't recognize the GPS module, please unzip the driver file, double-click to install it, and after successful installation, it can be recognized normally.
